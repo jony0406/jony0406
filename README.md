@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm ahmed jony</h1>
-<h3 align="center">A passionate Blockchain node run expert and core contributor from Bangladesh</h3>
+<h3 align="center">A passionate Blockchain node expert and core contributor from Bangladesh</h3>
 
 <img align="right" alt="code" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jony0406&label=Profile%20views&color=0e75b6&style=flat" alt="jony0406" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/ahmedjony](https://linktr.ee/ahmedjony)
+- 👨‍💻 Find me other plartform [https://linktr.ee/ahmedjony](https://linktr.ee/ahmedjony)
 
 - 📫 How to reach me **jonyjony0406@gmail.com**
 
-- 📄 Know about my experiences [https://linktr.ee/ahmedjony](https://linktr.ee/ahmedjony)
 
 - ⚡ Fun fact **lol**
 
