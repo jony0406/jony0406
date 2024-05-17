@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jony0406&label=Profile%20views&color=0e75b6&style=flat" alt="jony0406" /> </p>
 
-- 👨‍💻 Find me other plartform [https://linktr.ee/ahmedjony](https://linktr.ee/ahmedjony)
+- 👨‍💻 Find me other plartform https://ahmedjony.eth.co/
 
 - 📫 How to reach me **jonyjony0406@gmail.com**
 
