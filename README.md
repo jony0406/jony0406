@@ -9,7 +9,7 @@
 
 - 🌐 **Portfolio**: [ahmedjony.eth.co](https://ahmedjony.eth.co/)  
 - 📫 **Contact Me**: [jonyjony0406@gmail.com](mailto:jonyjony0406@gmail.com)  
-- 🐦 **Twitter**: [@jony_shagor](https://twitter.com/jony_shagor)
+- 🐦 **Twitter**: [@iamahmedjony](https://twitter.com/iamahmedjony)
 
 ---
 
